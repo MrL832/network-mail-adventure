@@ -38,13 +38,9 @@ The fuller teacher-focused project documentation is here:
 
 ## Quick Start
 
-To run the classroom app locally:
+To run the classroom app go to the web site:
 
-```bash
-cd network-mail-adventure
-pnpm install
-pnpm --filter @workspace/postal-tcp-ip run dev
-```
+https://mrl832.github.io/network-mail-adventure/ 
 
 ## Suggested Classroom Use
 
